@@ -162,51 +162,6 @@ My development work includes practical Laravel and PHP projects covering:
 I'm continuously building projects to strengthen my development skills and gain real-world experience.
 ---
 
-## 🎯 Currently Learning
-
-```text
-PHP
- └── Laravel
-      ├── CRUD
-      ├── Authentication
-      ├── REST APIs
-      ├── Database Management
-      └── Export / Import
-
-SQL
- └── Database Management
-
-Go
- └── Backend Logic & Programming
-
-HTML
- └── Responsive Web Structure
-```
-
----
-
-## 🌱 My Development Journey
-
-```text
-Learning
-   ↓
-PHP & HTML
-   ↓
-SQL & Database Management
-   ↓
-Laravel
-   ↓
-CRUD & Authentication
-   ↓
-REST APIs
-   ↓
-Real-World Internship
-   ↓
-Building Better Applications 🚀
-```
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
