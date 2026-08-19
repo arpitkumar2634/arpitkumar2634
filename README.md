@@ -1,187 +1,166 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                        HERO                                    -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,70:172554,100:2563eb&height=280&section=header&text=ARPIT%20KUMAR&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WEB%20DEVELOPER%20%20%C2%B7%20%20LARAVEL%20%20%C2%B7%20%20PHP%20%20%C2%B7%20%20BACKEND&descAlignY=57&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,30:0b1120,60:172554,100:2563eb&height=300&section=header&text=ARPIT%20KUMAR&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=WEB%20DEVELOPER%20%2F%2F%20LARAVEL%20%2F%2F%20PHP&descAlignY=62&descSize=19" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=720&lines=Building+clean+%26+practical+web+applications;Laravel+%7C+PHP+%7C+SQL+%7C+REST+APIs;Turning+ideas+into+working+software+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Backend+Developer;Laravel+%7C+PHP+%7C+SQL;REST+API+Developer;Building+%3E%3E%3E+Learning+%3E%3E%3E+Improving" />
 
 <br><br>
 
 <a href="https://github.com/arpitkumar2634">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/arpit-kumar-0453b9295">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0369A1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:arpitkumarkts6400@gamil.com">
-<img src="https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/EMAIL-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=arpitkumar2634&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=arpitkumar2634&label=VISITORS&color=38BDF8&style=for-the-badge"/>
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                     INTRO CARD                                -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
-## 👋 Hey, I'm Arpit.
+## `> whoami`
 
-I'm a **Web Developer** focused on building practical, database-driven web applications with **PHP and Laravel**.
+Hi, I'm **Arpit Kumar**.
 
-I enjoy working across the backend — from designing CRUD functionality and authentication systems to building REST APIs and managing application data.
+I'm a **Web Developer** focused on building practical web applications with **PHP and Laravel**.
 
-Currently, I'm gaining hands-on industry experience as a **Laravel Intern at Honeybee Digital**, while continuing to strengthen my development skills through projects and continuous learning.
+My main interests are backend development, database-driven applications, REST APIs and solving real development problems through hands-on projects.
+
+Currently, I'm working as a **Laravel Intern at Honeybee Digital**, gaining practical experience in application development, database management, debugging and backend engineering.
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="38%" valign="middle" align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,git,github&perline=3" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,html&perline=3"/>
 
 <br><br>
 
-<sub><b>Backend focused</b></sub><br> <sub>PHP · Laravel · SQL</sub>
+```text
+STATUS
+──────
+● Learning
+● Building
+● Improving
+```
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## `01` / CURRENT POSITION
 
-<!--                     QUICK STATS                               -->
+> **Laravel Intern @ Honeybee Digital**
+> `11 June 2026 — Present`
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+I'm working on Laravel-based web applications and their maintenance, with responsibilities across backend functionality, APIs, databases and debugging.
 
-<div align="center">
+**Core responsibilities**
 
-### ✦ CURRENTLY
+`CRUD` · `Authentication` · `REST APIs` · `MySQL` · `Debugging` · `Performance`
 
-</div>
+I also follow daily task reporting and project development workflows as part of the internship.
 
-<table>
-<tr>
+---
 
-<td align="center" width="25%">
-
-### 💻
-
-**Web Development**
-
-PHP & Laravel
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔌
-
-**APIs**
-
-RESTful APIs
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️
-
-**Databases**
-
-SQL / MySQL
-
-</td>
-
-<td align="center" width="25%">
-
-### 📚
-
-**Learning**
-
-Go & Backend
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    EXPERIENCE                                 -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💼 Experience
-
-### `01` — Laravel Intern
-
-**Honeybee Digital**
-`11 June 2026 → Present`
-
-> Working on Laravel-based web application development and maintenance.
+## `02` / WHAT I BUILD
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-**Backend**
+### `BACKEND`
 
+**Laravel Applications**
+
+Building practical application logic with:
+
+* PHP
+* Laravel
 * CRUD operations
-* Authentication modules
-* RESTful API development
-* Backend functionality
+* Authentication
+* RESTful APIs
 
 </td>
 
 <td width="50%" valign="top">
 
-**Engineering**
+### `DATA`
 
-* MySQL database management
-* Debugging
-* Performance optimization
-* Daily development workflows
+**Database-Driven Systems**
+
+Working with:
+
+* SQL
+* MySQL
+* Data management
+* Import / Export
+* Backend data handling
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `WEB`
+
+**Frontend Structure**
+
+Creating structured web pages using:
+
+* HTML
+* Responsive layouts
+* Backend-integrated pages
+
+</td>
+
+<td width="50%" valign="top">
+
+### `LEARNING`
+
+**Growing Beyond Laravel**
+
+Currently strengthening:
+
+* Go
+* Backend logic
+* Programming fundamentals
+* Real-world development practices
+
+</td>
+
 </tr>
 </table>
 
-My internship experience includes working with Laravel applications, databases, backend functionality, debugging and application optimization.
+My documented project work includes PHP/Laravel CRUD applications, authentication, REST APIs, HTML pages, SQL database management and import/export functionality.
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                     TECH STACK                                -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ⚙️ Tech Stack
+## `03` / TECH STACK
 
 <div align="center">
 
@@ -189,315 +168,126 @@ My internship experience includes working with Laravel applications, databases, 
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PHP-Backend-111827?style=flat-square&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/Laravel-Framework-111827?style=flat-square&logo=laravel&logoColor=FF2D20"/>
-<img src="https://img.shields.io/badge/SQL-Database-111827?style=flat-square&logo=databricks&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/MySQL-Database-111827?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/HTML-Frontend-111827?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/Go-Learning-111827?style=flat-square&logo=go&logoColor=00ADD8"/>
+`PHP` `Laravel` `SQL` `MySQL` `HTML` `Go` `Git` `GitHub`
 
 </div>
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    DEVELOPMENT FOCUS                          -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🧠 Development Focus
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 🔐 Authentication
-
-Building secure application flows and authentication functionality with Laravel.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🧩 CRUD Systems
-
-Creating practical database-driven applications with complete CRUD functionality.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🔌 REST APIs
-
-Developing RESTful APIs for application communication and backend services.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### 🗄️ Databases
-
-Working with SQL and MySQL for application data and database management.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📦 Data Handling
-
-Working with import/export functionality and application data workflows.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🌐 Web UI
-
-Creating structured and responsive web pages using HTML.
-
-</td>
-
-</tr>
-</table>
-
-These areas reflect the technologies and development activities listed in my resume.
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                      PROJECTS                                 -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 What I've Been Building
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🟦 Laravel Applications
-
-Practical web applications focused on:
-
-`CRUD` · `Authentication` · `REST APIs`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🟪 Database Systems
-
-Working with:
-
-`SQL` · `MySQL` · `Data Management`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🟩 Data Tools
-
-Experimenting with:
-
-`Import` · `Export` · `Backend Workflows`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🟨 Learning Projects
-
-Continuously building small projects to improve:
-
-`PHP` · `Laravel` · `Go` · `Backend Logic`
-
-</td>
-
-</tr>
-</table>
-
-My documented activities include Laravel/PHP projects, CRUD, authentication, REST APIs, HTML pages, SQL database management and import/export functionality.
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    EDUCATION                                  -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🎓 Education
-
-<table>
-<tr>
-
-<td width="70%">
-
-### Bachelor of Computer Application
-
-**Islamia Degree College**
-
-University: **Maa Shakumbhari University**
-
-</td>
-
-<td width="30%" align="center">
-
-### 2025
-
-**→**
-
-### Present
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    GITHUB ANALYTICS                           -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-# 📈 GitHub Activity
-
-<br>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=arpitkumar2634&show_icons=true&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&rank_icon=github"
-width="49%"
-/>
-
-<img
-src="https://streak-stats.demolab.com?user=arpitkumar2634&hide_border=true&background=020617&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=60A5FA&dates=94A3B8"
-width="49%"
-/>
-
-<br><br>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitkumar2634&layout=donut-vertical&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1"
-width="38%"
-/>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    LEARNING                                  -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🌱 Currently Learning
-
-<div align="center">
 
 ```text
-                    BACKEND DEVELOPMENT
-                           │
-              ┌────────────┴────────────┐
-              │                         │
-           PHP / Laravel              Go
-              │                         │
-       ┌──────┼──────┐                  │
-       │      │      │                  │
-     CRUD   APIs   Auth          Backend Logic
-       │      │      │                  │
-       └──────┼──────┘                  │
-              │                         │
-              └────────────┬────────────┘
-                           │
-                     SQL / MySQL
+PHP
+████████████████████░░
+
+Laravel
+██████████████████░░░░
+
+SQL / MySQL
+█████████████████░░░░░
+
+HTML
+████████████████░░░░░░
+
+Go
+██████████░░░░░░░░░░░░
 ```
 
-</div>
+The skills above are based on the technologies listed in your resume.
 
-I'm continuously learning through online courses, self-projects and practical development alongside my academic studies.
+---
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                     PHILOSOPHY                                -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## `04` / ENGINEERING FOCUS
 
 <div align="center">
 
-## ✦ My Approach
-
-<br>
-
-### **Build → Break → Debug → Learn → Improve**
-
-<sub>
-I believe the best way to learn development is to build things,
-solve problems and keep improving.
-</sub>
+| AREA            | FOCUS                   |
+| :-------------- | :---------------------- |
+| ⚡ Backend       | PHP + Laravel           |
+| 🔐 Security     | Authentication          |
+| 🔌 APIs         | RESTful API Development |
+| 🧩 Applications | CRUD Systems            |
+| 🗄️ Database    | SQL + MySQL             |
+| 📦 Data         | Import / Export         |
+| 🌐 Web          | HTML                    |
+| 🧠 Programming  | Go                      |
 
 </div>
+
+---
+## `05` / EDUCATION
+
+### 🎓 Bachelor of Computer Application
+
+**Islamia Degree College**
+**Maa Shakumbhari University**
+
+`2025 — Present`
+
+Currently pursuing BCA while developing practical web-development skills through projects, learning and internship experience.
+
+---
+
+## `06` / GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arpitkumar2634&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&rank_icon=github" width="49%"/>
+
+<img src="https://streak-stats.demolab.com?user=arpitkumar2634&hide_border=true&background=020617&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=94A3B8" width="49%"/>
 
 <br><br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitkumar2634&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" width="40%"/>
 
-<!--                       CONNECT                                 -->
+```
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+I'm continuing to learn through online courses, personal projects and hands-on development alongside my studies.
+
+---
+
+## `7` / PERSONAL PHILOSOPHY
 
 <div align="center">
 
-# Let's Build Something. 🚀
+<br>
+
+### **`Don't just learn code. Build with it.`**
 
 <br>
 
-I'm always interested in learning, building and connecting with other developers.
+`LEARN` → `BUILD` → `DEBUG` → `UNDERSTAND` → `IMPROVE`
+
+<br>
+
+</div>
+
+---
+
+## `8` / CONNECT
+
+<div align="center">
+
+### Want to connect?
 
 <br>
 
 <a href="https://github.com/arpitkumar2634">
-<img src="https://img.shields.io/badge/GitHub-View%20Projects-020617?style=for-the-badge&logo=github&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/GitHub-Projects-020617?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 <a href="https://www.linkedin.com/in/arpit-kumar-0453b9295">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0369A1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:arpitkumarkts6400@gamil.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-1E40AF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-0284C7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=arpitkumar2634&label=THANKS%20FOR%20VISITING&color=2563EB&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=arpitkumar2634&label=THANKS%20FOR%20VISITING&color=38BDF8&style=flat-square"/>
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                       FOOTER                                  -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,35:1e40af,65:172554,100:020617&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,45:1e3a8a,75:0f172a,100:020617&height=130&section=footer" width="100%"/>
