@@ -160,21 +160,6 @@ My development work includes practical Laravel and PHP projects covering:
 * ⚙️ Backend logic and application workflows
 
 I'm continuously building projects to strengthen my development skills and gain real-world experience.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitkumar2634&show_icons=true&hide_border=true&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&bg_color=0F172A" alt="Arpit Kumar GitHub Stats" width="48%" />
-
-  <img src="https://streak-stats.demolab.com?user=arpitkumar2634&hide_border=true&background=0F172A&ring=3B82F6&currStreakLabel=60A5FA&dates=CBD5E1&sideLabels=60A5FA" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitkumar2634&layout=compact&hide_border=true&title_color=60A5FA&text_color=CBD5E1&bg_color=0F172A" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🎯 Currently Learning
